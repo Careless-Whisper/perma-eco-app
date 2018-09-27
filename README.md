@@ -3,7 +3,7 @@
 # README
 
 ## Notre site :
-🥓 https://herokuapp.com/ 🥓
+http://bdpeatest.herokuapp.com/
 
 
 ## L'objectif du projet
